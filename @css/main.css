@@ -126,7 +126,7 @@ html, body{
     width: 60px;
     margin-left: 10px;
     border: 2px solid var(--color1);
-    background-image: url(../%40img/ava.png);
+    background-image: url(../%40img/ava.jpg);
     background-position: center;
     background-size: cover;
     -webkit-box-shadow: var(--container__shadow) rgba(var(--color1_rgb), .3);
